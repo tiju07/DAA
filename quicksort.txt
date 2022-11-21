@@ -23,4 +23,4 @@ quickSort(data, 0, size - 1)
 t1 = datetime.datetime.now() - t1
 print('Sorted Array in Ascending Order:')
 print(data)
-print("Time required: {} ms".format(t1)}
+print("Time required: {} ms".format(t1))
